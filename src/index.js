@@ -1,5 +1,3 @@
-import "./styles.css";
-
 //grabbing the input output box
 var inputOutput = document.getElementById("inputOutput");
 
