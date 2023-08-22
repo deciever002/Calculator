@@ -16,7 +16,6 @@ Live at: https://deciever002.github.io/Calculator/
 2. [Usage](#usage)
 3. [Screenshots](#screenshots)
 4. [Contributing](#contributing)
-5. [License](#license)
 
 ### Installation
 
