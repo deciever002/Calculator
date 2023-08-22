@@ -1,8 +1,8 @@
-## Calculator
+# Calculator
 
 Welcome to the documentation for the Calculator App! This web application was built using HTML, CSS, and JavaScript to provide basic calculator functionality.
 
-Live at:
+Live at: https://deciever002.github.io/Calculator/
 
 ### Features
 
@@ -41,9 +41,8 @@ Once the app is loaded in your browser, you can perform the following actions:
 
 ### Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+<img width="597" alt="Screenshot 2023-08-22 at 11 00 24 AM" src="https://github.com/deciever002/Calculator/assets/112121338/1b39cbfa-45d0-4992-9c88-d6405edc3030">
 
-![Screenshot 2](screenshots/screenshot2.png)
 
 ### Contributing
 
